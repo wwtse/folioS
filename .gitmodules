@@ -1,0 +1,9 @@
+[submodule "findjokerEValue"]
+	path = findjokerEValue
+	url = https://github.com/wwtse/findjokerEValue.git
+[submodule "SLAM"]
+	path = SLAM
+	url = https://github.com/avinashay/EECE5554_FinalProject.git
+[submodule "IMUfilter"]
+	path = IMUfilter
+	url = https://github.com/wwtse/eece5666gp1.git
